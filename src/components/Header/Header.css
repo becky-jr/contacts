@@ -1,0 +1,29 @@
+.container {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 40px;
+    font-weight: 700;
+    color: #1C222F;
+}
+
+ul li a {
+    color: #1C222F;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
